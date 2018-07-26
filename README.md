@@ -19,4 +19,7 @@ NIM:16.11.0391
  -Best Seller
  -Detail Produk
  -Keranjang Belanja
- -
+ -slider home
+ -location 
+ -help center
+
