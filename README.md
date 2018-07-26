@@ -1,8 +1,6 @@
 # Finalproject
 NIM :  16.11.0391
-       
        16.11.0360
-       
        15.11.9342
     
  Nama Startup : Station Shop
