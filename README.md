@@ -1,6 +1,4 @@
 # Finalproject
-Nama:  Suryadi Eko Putro
-       Bayu Siswantara
 NIM :  16.11.0391
        16.11.0360
        15.11.9342
